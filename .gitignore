@@ -3,3 +3,4 @@ notMNIST_small/
 .ipynb_checkpoints/
 notMNIST_large.tar.gz
 notMNIST_small.tar.gz
+notMNIST.pickle
